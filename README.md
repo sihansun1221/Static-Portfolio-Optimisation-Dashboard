@@ -9,4 +9,4 @@ The code for the project is organized into four PDFs, each focusing on a specifi
 3. The third part includes the code for creating a dash application that creates an interactive portfolio optimization dashboard
 4. The fourth part includes the code for setting up a Dash web application that functions as a "Portfolio Optimization Dashboard", which allows users to input stock tickers, set a risk preference, and see optimized portfolio results based on the inputs. 
 
-Screenshots of the dashboard can be found in the "Dashboard" file.
+Screenshots of the dashboard can be found in the "Dashboard.png" file.
