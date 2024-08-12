@@ -8,3 +8,5 @@ The code for the project is organized into four PDFs, each focusing on a specifi
 2. The second part includes the code of the methodology we used for forecasting future stock prices - ARIMA model and to optimize a stock portfolio based on MVO (Mean-Variance Optimization)
 3. The third part includes the code for creating a dash application that creates an interactive portfolio optimization dashboard
 4. The fourth part includes the code for setting up a Dash web application that functions as a "Portfolio Optimization Dashboard", which allows users to input stock tickers, set a risk preference, and see optimized portfolio results based on the inputs. 
+
+Screenshots of the dashboard can be found in the "Dashboard" file.
