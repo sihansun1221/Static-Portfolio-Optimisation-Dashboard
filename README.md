@@ -10,10 +10,7 @@ The code for the project is organized into four PDFs, each focusing on a specifi
 3. The third part includes the code for creating a dash application that creates an interactive portfolio optimization dashboard
 4. The fourth part includes the code for setting up a Dash web application that functions as a "Portfolio Optimization Dashboard", which allows users to input stock tickers, set a risk preference, and see optimized portfolio results based on the inputs. 
 
-**Project Setup:**
-
-To get your project up and running, follow these steps to set up a virtual environment, install dependencies, and run the code.
-
+**Project Setup:** To get your project up and running, follow these steps to set up a virtual environment, install dependencies, and run the code.
 1. Navigate to the Project Directory
 First, open your terminal and navigate to the directory where your project is located. Replace /path/to/your/project with the actual path to your project:
 cd /path/to/your/project
