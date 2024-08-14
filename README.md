@@ -10,3 +10,44 @@ The code for the project is organized into four PDFs, each focusing on a specifi
 4. The fourth part includes the code for setting up a Dash web application that functions as a "Portfolio Optimization Dashboard", which allows users to input stock tickers, set a risk preference, and see optimized portfolio results based on the inputs. 
 
 Screenshots of the dashboard can be found in the "Dashboard.png" file.
+
+Project Setup
+
+To get your project up and running, follow these steps to set up a virtual environment, install dependencies, and run the code.
+
+1. Navigate to the Project Directory
+First, open your terminal and navigate to the directory where your project is located. Replace /path/to/your/project with the actual path to your project:
+
+cd /path/to/your/project
+
+2. Create a Virtual Environment
+Create a virtual environment to manage project-specific dependencies. This ensures that your project's packages don't interfere with system-wide packages or other projects:
+
+python3 -m venv myenv
+
+
+3. Activate the Virtual Environment
+Activate the virtual environment. This step may vary depending on your operating system:
+
+On macOS/Linux:
+source myenv/bin/activate
+
+On Windows:
+myenv\Scripts\activate
+
+After activation, your terminal prompt should change to indicate that the virtual environment is active.
+
+4. Install Dependencies
+With the virtual environment activated, install the necessary packages listed in requirements.txt. This file contains all the dependencies required for the project:
+
+pip3 install -r requirements.txt
+
+5. Run the Code
+Now that all dependencies are installed, you can run the code. Replace your_script.py with the name of the Python file you want to execute:
+
+python3 Static Portfolio Optimisation Dashboard.py
+
+6. Deactivate the Virtual Environment
+After you're done working, you can deactivate the virtual environment:
+
+deactivate
