@@ -34,4 +34,4 @@ python3 Static Portfolio Optimisation Dashboard.py
 After you're done working, you can deactivate the virtual environment:
 deactivate
 
-Screenshots of the dashboard can be found in the "Dashboard.png" file.
+Python version 3.11.9
