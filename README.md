@@ -7,8 +7,11 @@ The project developed a dashboard tailored for investors with limited investment
 **Files:**
 
 The **"Dashboard.pdf"** documents the overview of dashboard functionality, methodology, instructions on setting up the project, and the resources.
-For documentation purposes, the code is divided into two parts. 
+
+For documentation purposes, the code is divided into two parts:
+
 **"functions.py"**: the functions that power the dashboard. 
+
 **"Statistic Portfolio Optimization Dashboard.py"**: the complete implementation of where these functions are imported and how the dashboard is created.
 
 Python version 3.11.9
