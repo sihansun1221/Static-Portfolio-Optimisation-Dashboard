@@ -14,4 +14,5 @@ For documentation purposes, the code is divided into two parts:
 
 **"Statistic Portfolio Optimization Dashboard.py"**: the complete implementation of where these functions are imported and how the dashboard is created.
 
+
 Python version 3.11.9
